@@ -1,0 +1,4 @@
+[submodule "ci-functions"]
+	path = .ci-functions
+	url = https://code.jgi.doe.gov/user-support-analysis/ci-functions.git
+	branch = main
